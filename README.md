@@ -1,1 +1,1 @@
-# FirstJavaWebApp
+# JavaWebApp
